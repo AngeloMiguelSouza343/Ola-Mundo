@@ -1,4 +1,4 @@
 # Olá, Mundo!
-Primeiro repositório versionado sla
+Primeiro repositório versionado 
 
 Repositório criado a partir do curso de Git e Github do Curso em vídeo, por Gustavo Guanabara. 
